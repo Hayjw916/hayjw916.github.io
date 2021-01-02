@@ -10,6 +10,10 @@
     text-align: center;
 }
 
+body {
+    background-color: rgb(197, 197, 197);
+}
+
 #content {
     text-align: center;
 }
